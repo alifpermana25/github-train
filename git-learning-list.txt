@@ -1,11 +1,18 @@
 List of your learning plan
 
-1. CSS and HTML
-2. Javascript
+1. Platform-Sphere
+   ^ Google
+   ^ AWS
+   ^ iOS
+   ^ Windows
+   ^ Linux
+2. Language
+   ^ Javascript
 3. Backend Developer
    ^ Node.js
    ^ Express.js
 4. Frontend Developer
+   ^ CSS and HTML
    ^ Angular JS 
    ^ React JS
 5. Database Developer
