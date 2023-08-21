@@ -8,3 +8,4 @@ List of your learning plan
 4. Frontend Developer
    ^ Angular JS 
    ^ React JS
+5. Database Developer
