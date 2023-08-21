@@ -6,3 +6,5 @@ List of your learning plan
    ^ Node.js
    ^ Express.js
 4. Frontend Developer
+   ^ Angular JS 
+   ^ React JS
