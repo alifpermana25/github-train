@@ -3,4 +3,4 @@ Update 1
 - Commit 1.
 - Create git-update-note.txt
 - Update for Commit 2.
-- Add new example line for commit 3.
+
