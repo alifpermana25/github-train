@@ -3,9 +3,9 @@ List of your learning plan
 1. Platform-Sphere
    ^ Google
    ^ AWS
+   ^ Linux
    ^ iOS
    ^ Windows
-   ^ Linux
 2. Language
    ^ Javascript
 3. Backend Developer
