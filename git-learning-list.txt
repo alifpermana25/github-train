@@ -4,3 +4,5 @@ List of your learning plan
 2. Javascript
 3. Backend Developer
 4. Frontend Developer
+   ^ Angular JS 
+   ^ React JS
