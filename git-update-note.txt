@@ -2,3 +2,4 @@ Update 1
 
 - Commit 1.
 - Create git-update-note.txt
+- Update for Commit 2.
